@@ -1,0 +1,15 @@
+# Path to dataset
+path: .
+
+# Training and validation folders
+train: train
+val: val
+
+# Number of classes
+nc: 3
+
+# Class names
+names:
+  0: fly
+  1: fly_swim
+  2: no_fly
